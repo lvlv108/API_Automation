@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/30 下午2:13
-# @Author  : WangJuan
 # @File    : Hash.py
 """
 封装各种加密方法

@@ -1,21 +1,28 @@
 ---
+# {"start_month":"2021-06","company":"","user_id":4328,"id_card":"","position_status":"",
+#"status":"","type":"","end_month":"2021-06","page_num":1,"page_size":20}
 Collections:
-  dec: "专辑和文集"
+  dec: "实习转试用test"
   parameters:
     -
-      url: /users/da1677475c27/collections_and_notebooks
-      data: slug=da1677475c27
-      header: {
-                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
-                  Chrome/67.0.3396.99 Safari/537.36",
-                 "Content-Type": "keep-alive"
-              }
+      url: /api/salary/list
+      data:
+          start_month: "2021-06"
+          company: ""
+          user_id: 4328
+          id_card: ""
+          position_status: ""
+          status: ""
+          type: ""
+          end_month: "2021-06"
+          page_num: 1
+          page_size: 20
 
-    -
-      url: /users/95c34f9cc50c/collections_and_notebooks
-      data: slug=95c34f9cc50c
-      header: {
-                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
-                  Chrome/67.0.3396.99 Safari/537.36",
-                 "Content-Type": "keep-alive"
-              }
+#    -
+#      url: /users/95c34f9cc50c/collections_and_notebooks
+#      data: slug=95c34f9cc50c
+#      header: {
+#                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
+#                  Chrome/67.0.3396.99 Safari/537.36",
+#                 "Content-Type": "keep-alive"
+#              }

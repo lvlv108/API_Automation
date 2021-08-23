@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/25 上午10:13
-# @Author  : WangJuan
 # @File    : Consts.py
 
 """

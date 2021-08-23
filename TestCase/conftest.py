@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/1 下午2:37
-# @Author  : WangJuan
 # @File    : conftest.py
 
 """
@@ -20,23 +19,25 @@
 import allure
 import pytest
 
-from Conf.Config import Config
-from Common import Consts
+from API_Automation.Conf.Config import Config
+from API_Automation.Common import Consts
 
 
 @pytest.fixture()
 def action():
     # 定义环境
-    env = Consts.API_ENVIRONMENT_RELEASE
+    env = Consts.API_ENVIRONMENT_DEBUG
     # 定义报告中environment
-    conf = Config()
-    host = conf.host_release
-    tester = conf.tester_release
-    allure.environment(environment=env)
-    allure.environment(hostname=host)
-    allure.environment(tester=tester)
+    # conf = Config()
+    # host = conf.host_release
+    # tester = conf.tester_release
+    # allure.environment(environment=env)
+    # allure.environment(hostname=host)
+    # allure.environment(tester=tester)
     return env
-
+@pytest.fixture(scope="function")
+def cldb():
+    pass
 
 
 

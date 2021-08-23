@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/25 上午10:46
-# @Author  : WangJuan
 # @File    : Config.py
 
 from configparser import ConfigParser
-from Common import Log
+from API_Automation.Common import Log
 import os
 
 

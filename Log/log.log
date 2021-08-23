@@ -69,3 +69,937 @@
 [INFO 2019-07-08 17:33:01]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
 [INFO 2019-07-08 17:33:12]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
 [INFO 2019-07-08 17:35:06]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2021-07-12 16:00:03]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:00:06]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:04:46]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:04:47]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:08:44]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:08:45]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:10:03]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:10:05]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:11:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:11:01]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:11:38]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:11:39]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:12:41]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:12:41]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:13:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:13:44]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:15:23]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:15:24]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:15:55]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:15:56]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:16:24]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:16:25]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:16:51]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:16:53]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:18:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 16:18:02]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 16:25:42]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 17:51:45]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 17:51:48]邮件发送失败，请检查邮件配置[INFO 2021-07-12 18:14:07]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 18:14:09]邮件发送失败，请检查邮件配置
+[INFO 2021-07-12 18:36:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[ERROR 2021-07-12 18:36:03]发送邮件失败，请检查邮件配置
+[INFO 2021-07-12 18:36:51]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 18:44:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 18:46:27]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 18:46:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-12 18:46:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-12 18:46:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-12 18:48:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 18:48:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-12 18:48:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-12 18:48:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-12 18:58:50]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 18:58:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-12 18:58:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-12 18:58:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-12 18:59:18]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 18:59:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-12 18:59:19]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-12 18:59:19]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-12 19:00:29]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 19:00:29]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-12 19:00:29]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-12 19:00:29]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-12 19:02:01]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-12 19:02:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-12 19:02:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-12 19:02:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-13 11:32:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 11:32:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-13 11:32:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-13 11:32:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-13 11:44:26]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 11:53:02]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 11:53:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-13 11:53:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-13 11:53:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-13 16:08:26]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 16:08:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-13 16:08:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-13 16:08:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-13 17:54:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 17:54:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-13 17:54:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-13 17:54:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-13 17:55:16]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 17:55:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-13 17:55:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-13 17:55:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-13 18:17:48]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-13 18:17:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-13 18:17:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-13 18:17:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-15 14:16:16]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-15 14:16:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-15 14:16:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-15 14:16:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-15 14:17:10]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-15 14:17:10]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-15 14:17:10]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-15 14:17:10]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-16 17:21:21]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-16 17:21:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-16 17:21:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-16 17:21:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-16 17:52:25]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-16 17:52:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-16 17:52:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-16 17:52:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-16 17:54:23]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-16 17:54:24]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-16 17:54:24]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-16 17:54:24]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-18 14:05:53]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:05:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:05:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:05:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-18 14:06:23]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:06:23]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:06:23]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:06:23]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-18 14:12:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:12:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:12:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:12:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:12:06]cookies: {}
+[DEBUG 2021-07-18 14:12:06]cookies: {}
+[INFO 2021-07-18 14:14:49]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:14:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:14:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:14:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:14:49]cookies: {}
+[DEBUG 2021-07-18 14:14:49]cookies: {}
+[INFO 2021-07-18 14:15:06]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:15:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:15:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:15:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:15:06]cookies: {}
+[DEBUG 2021-07-18 14:15:06]cookies: {}
+[INFO 2021-07-18 14:16:45]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:16:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:16:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:16:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:16:46]cookies: {}
+[DEBUG 2021-07-18 14:16:46]cookies: {}
+[INFO 2021-07-18 14:19:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:19:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:19:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:19:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:19:06]cookies: {}
+[DEBUG 2021-07-18 14:19:06]cookies: {}
+[INFO 2021-07-18 14:19:35]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:19:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:19:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:19:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:19:35]cookies: {}
+[DEBUG 2021-07-18 14:19:36]cookies: {}
+[INFO 2021-07-18 14:20:25]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:20:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:20:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:20:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:20:26]cookies: {}
+[DEBUG 2021-07-18 14:20:26]cookies: {}
+[INFO 2021-07-18 14:20:47]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:20:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:20:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:20:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:20:47]cookies: {}
+[DEBUG 2021-07-18 14:20:47]cookies: {}
+[INFO 2021-07-18 14:22:44]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:22:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:22:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:22:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:22:44]cookies: {}
+[DEBUG 2021-07-18 14:22:44]cookies: {}
+[INFO 2021-07-18 14:23:01]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-18 14:23:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-18 14:23:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-18 14:23:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-18 14:23:01]cookies: {}
+[DEBUG 2021-07-18 14:23:01]cookies: {}
+[INFO 2021-07-19 16:41:04]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:41:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:41:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 16:41:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 16:41:05]cookies: {}
+[DEBUG 2021-07-19 16:41:05]cookies: {}
+[INFO 2021-07-19 16:48:02]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:48:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:48:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 16:48:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 16:48:02]cookies: {}
+[DEBUG 2021-07-19 16:48:02]cookies: {}
+[INFO 2021-07-19 16:48:26]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:48:27]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:48:27]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 16:48:27]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 16:48:27]cookies: {}
+[DEBUG 2021-07-19 16:48:27]cookies: {}
+[INFO 2021-07-19 16:48:54]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:48:54]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:48:54]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 16:48:54]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 16:48:55]cookies: {}
+[DEBUG 2021-07-19 16:48:55]cookies: {}
+[INFO 2021-07-19 16:50:20]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:50:20]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:51:57]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:51:58]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:53:23]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:53:23]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:54:37]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:54:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 16:57:14]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 16:57:14]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:02:34]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:02:34]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:03:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:03:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:03:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:03:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:03:01]cookies: {}
+[ERROR 2021-07-19 17:03:01]statusCode error, expected_code is 401, statusCode is 400 
+[DEBUG 2021-07-19 17:03:01]cookies: {}
+[ERROR 2021-07-19 17:03:01]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:04:32]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:04:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:04:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:04:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:04:33]cookies: {}
+[ERROR 2021-07-19 17:04:33]statusCode error, expected_code is 401, statusCode is 400 
+[DEBUG 2021-07-19 17:04:33]cookies: {}
+[ERROR 2021-07-19 17:04:33]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:05:03]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:05:04]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:05:04]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:05:04]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:05:04]cookies: {}
+[ERROR 2021-07-19 17:05:04]statusCode error, expected_code is 401, statusCode is 400 
+[DEBUG 2021-07-19 17:05:04]cookies: {}
+[ERROR 2021-07-19 17:05:04]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:07:34]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:07:34]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:07:34]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:07:34]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:07:34]cookies: {}
+[DEBUG 2021-07-19 17:07:35]cookies: {}
+[ERROR 2021-07-19 17:07:35]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:08:38]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:08:39]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:08:39]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:08:39]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:08:39]cookies: {}
+[DEBUG 2021-07-19 17:08:39]cookies: {}
+[ERROR 2021-07-19 17:08:39]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:10:28]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:10:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:10:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:10:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:10:28]cookies: {}
+[DEBUG 2021-07-19 17:10:28]cookies: {}
+[ERROR 2021-07-19 17:10:29]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:12:50]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:12:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:12:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:12:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:12:50]cookies: {}
+[DEBUG 2021-07-19 17:12:50]cookies: {}
+[ERROR 2021-07-19 17:12:50]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:17:42]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:17:42]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:17:42]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:17:42]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:17:42]cookies: {}
+[DEBUG 2021-07-19 17:17:42]cookies: {}
+[ERROR 2021-07-19 17:17:42]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:18:21]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:18:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:18:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:18:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:18:22]cookies: {}
+[DEBUG 2021-07-19 17:18:22]cookies: {}
+[ERROR 2021-07-19 17:18:22]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:21:18]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:21:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:21:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:21:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:21:18]cookies: {}
+[DEBUG 2021-07-19 17:21:18]cookies: {}
+[INFO 2021-07-19 17:22:11]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:22:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:22:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:22:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:22:11]cookies: {}
+[DEBUG 2021-07-19 17:22:11]cookies: {}
+[INFO 2021-07-19 17:24:31]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:24:31]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:24:31]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:24:31]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-19 17:24:37]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:24:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:24:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:24:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:24:37]cookies: {}
+[DEBUG 2021-07-19 17:24:37]cookies: {}
+[ERROR 2021-07-19 17:24:37]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:44:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:44:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:44:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:44:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:44:06]cookies: {}
+[DEBUG 2021-07-19 17:44:06]cookies: {}
+[ERROR 2021-07-19 17:44:06]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 17:56:22]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 17:56:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 17:56:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 17:56:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 17:56:22]cookies: {}
+[DEBUG 2021-07-19 17:56:22]cookies: {}
+[ERROR 2021-07-19 17:56:22]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 18:09:48]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 18:09:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 18:09:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 18:09:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 18:09:49]cookies: {}
+[DEBUG 2021-07-19 18:09:49]cookies: {}
+[ERROR 2021-07-19 18:09:49]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 18:19:58]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 18:19:59]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 18:19:59]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 18:19:59]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 18:19:59]cookies: {}
+[DEBUG 2021-07-19 18:19:59]cookies: {}
+[ERROR 2021-07-19 18:19:59]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 18:48:54]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 18:48:55]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 18:48:55]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 18:48:55]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 18:48:55]cookies: {}
+[DEBUG 2021-07-19 18:48:55]cookies: {}
+[ERROR 2021-07-19 18:48:55]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 18:49:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 18:49:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 18:49:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 18:49:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 18:49:43]cookies: {}
+[DEBUG 2021-07-19 18:49:43]cookies: {}
+[ERROR 2021-07-19 18:49:43]statusCode error, expected_code is 401, statusCode is 400 
+[INFO 2021-07-19 19:00:46]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 19:00:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 19:00:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 19:00:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 19:00:46]cookies: {}
+[DEBUG 2021-07-19 19:00:46]cookies: {}
+[ERROR 2021-07-19 19:00:46]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录."}, body is <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>400 Bad Request</title>
+<h1>Bad Request</h1>
+<p>The browser (or proxy) sent a request that this server could not understand.</p>
+
+[INFO 2021-07-19 19:01:13]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 19:01:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 19:01:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 19:01:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 19:01:13]cookies: {}
+[DEBUG 2021-07-19 19:01:13]cookies: {}
+[INFO 2021-07-19 19:02:31]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 19:02:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 19:02:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 19:02:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 19:02:32]cookies: {}
+[DEBUG 2021-07-19 19:02:32]cookies: {}
+[INFO 2021-07-19 19:03:41]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 19:03:42]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 19:03:42]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 19:03:42]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 19:03:42]cookies: {}
+[DEBUG 2021-07-19 19:03:42]cookies: {}
+[INFO 2021-07-19 19:04:40]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-19 19:04:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-19 19:04:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-19 19:04:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-19 19:04:40]cookies: {}
+[DEBUG 2021-07-19 19:04:40]cookies: {}
+[INFO 2021-07-20 10:59:15]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 10:59:15]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 10:59:15]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 10:59:15]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 10:59:15]cookies: {}
+[DEBUG 2021-07-20 10:59:15]cookies: {}
+[INFO 2021-07-20 11:00:25]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 11:00:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 11:00:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 11:00:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 11:00:25]cookies: {}
+[DEBUG 2021-07-20 11:00:25]cookies: {}
+[INFO 2021-07-20 11:00:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 11:00:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 11:00:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 11:00:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 11:00:56]cookies: {}
+[DEBUG 2021-07-20 11:00:56]cookies: {}
+[INFO 2021-07-20 11:41:40]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 11:41:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 11:41:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 11:41:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 11:41:40]cookies: {}
+[DEBUG 2021-07-20 11:41:40]cookies: {}
+[INFO 2021-07-20 11:42:25]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 11:42:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 11:42:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 11:42:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 11:42:25]cookies: {}
+[DEBUG 2021-07-20 11:42:25]cookies: {}
+[INFO 2021-07-20 11:43:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 11:43:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 11:43:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 11:43:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 11:43:44]cookies: {}
+[DEBUG 2021-07-20 11:43:44]cookies: {}
+[INFO 2021-07-20 11:44:46]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 11:44:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 11:44:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 11:44:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 11:44:47]cookies: {}
+[DEBUG 2021-07-20 11:44:47]cookies: {}
+[INFO 2021-07-20 13:47:18]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 13:47:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 13:47:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 13:47:19]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 13:47:19]cookies: {}
+[DEBUG 2021-07-20 13:47:19]cookies: {}
+[INFO 2021-07-20 13:48:13]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 13:48:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 13:48:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 13:48:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[INFO 2021-07-20 13:50:53]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 13:50:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 13:50:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 13:50:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 13:50:54]cookies: {}
+[DEBUG 2021-07-20 13:50:54]cookies: {}
+[INFO 2021-07-20 13:52:44]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 13:52:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 13:52:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 13:52:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 13:52:44]cookies: {}
+[ERROR 2021-07-20 13:52:44]statusCode error, expected_code is 400, statusCode is 405 
+[DEBUG 2021-07-20 13:52:44]cookies: {}
+[ERROR 2021-07-20 13:52:44]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-20 16:23:40]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:23:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:23:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:23:41]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:23:41]cookies: {}
+[ERROR 2021-07-20 16:23:41]statusCode error, expected_code is 400, statusCode is 405 
+[DEBUG 2021-07-20 16:23:41]cookies: {}
+[ERROR 2021-07-20 16:23:41]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-20 16:25:03]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:25:03]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:25:03]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:25:03]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:25:04]cookies: {}
+[ERROR 2021-07-20 16:25:04]statusCode error, expected_code is 400, statusCode is 405 
+[DEBUG 2021-07-20 16:25:04]cookies: {}
+[ERROR 2021-07-20 16:25:04]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-20 16:27:07]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:27:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:27:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:27:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:27:07]cookies: {}
+[ERROR 2021-07-20 16:27:07]statusCode error, expected_code is 400, statusCode is 405 
+[DEBUG 2021-07-20 16:27:07]cookies: {}
+[ERROR 2021-07-20 16:27:07]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-20 16:33:06]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:33:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:33:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:33:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:33:06]cookies: {}
+[ERROR 2021-07-20 16:33:07]statusCode error, expected_code is 400, statusCode is 405 
+[DEBUG 2021-07-20 16:33:07]cookies: {}
+[ERROR 2021-07-20 16:33:07]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-20 16:36:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:36:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:36:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:36:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:36:43]cookies: {}
+[ERROR 2021-07-20 16:36:43]statusCode error, expected_code is 400, statusCode is 404 
+[DEBUG 2021-07-20 16:36:44]cookies: {}
+[INFO 2021-07-20 16:37:33]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:37:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:37:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:37:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:37:33]cookies: {}
+[ERROR 2021-07-20 16:37:33]statusCode error, expected_code is 400, statusCode is 404 
+[DEBUG 2021-07-20 16:37:33]cookies: {}
+[INFO 2021-07-20 16:38:01]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:38:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:38:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:38:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:38:01]cookies: {}
+[ERROR 2021-07-20 16:38:02]statusCode error, expected_code is 400, statusCode is 404 
+[DEBUG 2021-07-20 16:38:02]cookies: {}
+[ERROR 2021-07-20 16:38:02]statusCode error, expected_code is 400, statusCode is 404 
+[INFO 2021-07-20 16:39:11]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-20 16:39:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-20 16:39:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-20 16:39:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-20 16:39:11]cookies: {}
+[ERROR 2021-07-20 16:39:11]statusCode error, expected_code is 400, statusCode is 405 
+[DEBUG 2021-07-20 16:39:11]cookies: {}
+[INFO 2021-07-21 15:39:31]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:39:31]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:39:31]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:39:31]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:39:31]cookies: {}
+[ERROR 2021-07-21 15:39:31]statusCode error, expected_code is 400, statusCode is 200 
+[DEBUG 2021-07-21 15:39:31]cookies: {}
+[INFO 2021-07-21 15:39:46]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:39:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:39:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:39:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:39:47]cookies: {}
+[ERROR 2021-07-21 15:39:47]statusCode error, expected_code is 400, statusCode is 200 
+[DEBUG 2021-07-21 15:39:47]cookies: {}
+[ERROR 2021-07-21 15:39:47]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-21 15:40:40]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:40:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:40:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:40:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:40:41]cookies: {}
+[ERROR 2021-07-21 15:40:41]statusCode error, expected_code is 400, statusCode is 200 
+[DEBUG 2021-07-21 15:40:41]cookies: {}
+[ERROR 2021-07-21 15:40:41]statusCode error, expected_code is 400, statusCode is 405 
+[INFO 2021-07-21 15:41:30]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:41:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:41:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:41:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:41:30]cookies: {}
+[ERROR 2021-07-21 15:41:30]statusCode error, expected_code is 400, statusCode is 200 
+[DEBUG 2021-07-21 15:41:31]cookies: {}
+[ERROR 2021-07-21 15:41:31]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-21 15:42:09]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:42:09]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:42:09]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:42:09]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:42:09]cookies: {}
+[DEBUG 2021-07-21 15:42:09]cookies: {}
+[INFO 2021-07-21 15:43:47]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:43:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:43:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:43:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:43:48]cookies: {}
+[DEBUG 2021-07-21 15:43:48]cookies: {}
+[INFO 2021-07-21 15:44:50]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 15:44:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 15:44:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 15:44:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 15:44:50]cookies: {}
+[DEBUG 2021-07-21 15:44:50]cookies: {}
+[INFO 2021-07-21 16:01:03]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 16:01:03]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 16:01:03]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 16:01:03]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 16:01:04]cookies: {}
+[DEBUG 2021-07-21 16:01:04]cookies: {}
+[ERROR 2021-07-21 16:01:04]statusCode error, expected_code is 405, statusCode is 200 
+[INFO 2021-07-21 16:01:21]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 16:01:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 16:01:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 16:01:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 16:01:22]cookies: {}
+[DEBUG 2021-07-21 16:01:22]cookies: {}
+[ERROR 2021-07-21 16:01:22]statusCode error, expected_code is 405, statusCode is 200 
+[INFO 2021-07-21 16:02:40]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 16:02:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 16:02:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 16:02:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 16:02:40]cookies: {}
+[DEBUG 2021-07-21 16:02:40]cookies: {}
+[INFO 2021-07-21 16:04:31]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 16:04:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 16:04:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 16:04:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 16:04:32]cookies: {}
+[DEBUG 2021-07-21 16:04:32]cookies: {}
+[INFO 2021-07-21 17:26:30]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 17:26:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 17:26:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 17:26:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 17:26:30]cookies: {}
+[DEBUG 2021-07-21 17:26:30]cookies: {}
+[INFO 2021-07-21 17:27:46]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-21 17:27:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-21 17:27:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-21 17:27:46]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-21 17:27:47]cookies: {}
+[DEBUG 2021-07-21 17:27:47]cookies: {}
+[INFO 2021-07-22 10:10:59]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:11:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:11:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:11:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:11:00]cookies: {}
+[DEBUG 2021-07-22 10:11:00]cookies: {}
+[INFO 2021-07-22 10:11:36]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:11:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:11:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:11:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:11:37]cookies: {}
+[DEBUG 2021-07-22 10:11:37]cookies: {}
+[INFO 2021-07-22 10:11:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:11:57]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:11:57]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:11:57]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:11:57]cookies: {}
+[DEBUG 2021-07-22 10:11:57]cookies: {}
+[ERROR 2021-07-22 10:11:57]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-22 10:12:39]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:12:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:12:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:12:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:12:40]cookies: {}
+[DEBUG 2021-07-22 10:12:40]cookies: {}
+[ERROR 2021-07-22 10:12:40]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-22 10:13:21]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:13:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:13:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:13:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:13:21]cookies: {}
+[DEBUG 2021-07-22 10:13:21]cookies: {}
+[ERROR 2021-07-22 10:13:21]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-22 10:13:32]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:13:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:13:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:13:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:13:32]cookies: {}
+[DEBUG 2021-07-22 10:13:32]cookies: {}
+[ERROR 2021-07-22 10:13:32]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-22 10:14:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:14:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:14:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:14:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:14:06]cookies: {}
+[DEBUG 2021-07-22 10:14:06]cookies: {}
+[INFO 2021-07-22 10:15:26]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:15:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:15:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:15:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:15:26]cookies: {}
+[ERROR 2021-07-22 10:15:26]statusCode error, expected_code is 200, statusCode is 400 
+[DEBUG 2021-07-22 10:15:27]cookies: {}
+[INFO 2021-07-22 10:26:07]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:26:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:26:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:26:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:26:07]cookies: {}
+[ERROR 2021-07-22 10:26:07]Response body msg != expected_msg, expected_msg is 校验失败: 用户名或密码错误, body_msg is error
+[DEBUG 2021-07-22 10:26:07]cookies: {}
+[INFO 2021-07-22 10:27:15]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:27:15]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:27:15]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:27:15]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:27:15]cookies: {}
+[ERROR 2021-07-22 10:27:16]Response body msg != expected_msg, expected_msg is 校验失败: 用户名或密码错误, body_msg is error
+[DEBUG 2021-07-22 10:27:16]cookies: {}
+[ERROR 2021-07-22 10:27:16]Response body != expected_msg, expected_msg is {"code":0,"data":{"archive_no":"TYC0811","company":"北京天眼查科技有限公司","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"天眼企服-效率中台部-测试组","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"员工","post_scale":"","realname":"吕冰洋","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZeRE885wQA89nwVA%2BPNLLTKjYbwkRxV1u"}, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZhhGvj%2BpAJHWjJEvm/MVwKKjYbwkRxV1u"}
+
+[INFO 2021-07-22 10:29:35]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:29:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:29:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:29:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:29:35]cookies: {}
+[ERROR 2021-07-22 10:29:35]Response body msg != expected_msg, expected_msg is 校验失败: 用户名或密码错误, body_msg is error
+[DEBUG 2021-07-22 10:29:35]cookies: {}
+[ERROR 2021-07-22 10:29:36]Response time > expected_time, expected_time is 100, time is 209.307
+[INFO 2021-07-22 10:31:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:31:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:31:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:31:01]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:31:01]cookies: {}
+[ERROR 2021-07-22 10:31:01]Response time > expected_time, expected_time is 100, time is 280.436
+[DEBUG 2021-07-22 10:31:01]cookies: {}
+[ERROR 2021-07-22 10:31:02]Response time > expected_time, expected_time is 100, time is 266.274
+[INFO 2021-07-22 10:32:21]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:32:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:32:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:32:22]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:32:22]cookies: {}
+[ERROR 2021-07-22 10:32:22]Response time > expected_time, expected_time is 100, time is 217.223
+[DEBUG 2021-07-22 10:32:22]cookies: {}
+[INFO 2021-07-22 10:32:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:32:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:32:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:32:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:32:43]cookies: {}
+[DEBUG 2021-07-22 10:32:43]cookies: {}
+[INFO 2021-07-22 10:33:39]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:33:39]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:33:39]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:33:39]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:33:39]cookies: {}
+[ERROR 2021-07-22 10:33:39]Response body msg != expected_msg, expected_msg is {'code': 1, 'msg': '校验失败: 用户名或密码错误'}, body_msg is {'code': 1, 'msg': '校验失败: 用户名或密码错误'}
+[DEBUG 2021-07-22 10:33:39]cookies: {}
+[INFO 2021-07-22 10:36:12]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:36:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:36:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:36:13]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:36:13]cookies: {}
+[ERROR 2021-07-22 10:36:13]Response body msg != expected_msg, expected_msg is msg, body_msg is {'code': 1, 'msg': '校验失败: 用户名或密码错误'}
+[DEBUG 2021-07-22 10:36:13]cookies: {}
+[INFO 2021-07-22 10:37:37]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:37:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:37:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:37:37]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:37:37]cookies: {}
+[DEBUG 2021-07-22 10:37:37]cookies: {}
+[INFO 2021-07-22 10:38:49]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:38:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:38:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:38:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:38:49]cookies: {}
+[DEBUG 2021-07-22 10:38:50]cookies: {}
+[ERROR 2021-07-22 10:38:50]Response body != expected_msg, expected_msg is {"code":0,"data":{"archive_no":"TYC0811","company":"北京天眼查科技有限公司","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"天眼企服-效率中台部-测试组","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"员工","post_scale":"","realname":"吕冰洋","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZeRE885wQA89nwVA%2BPNLLTKjYbwkRxV1u"}, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZ88MrEFHb7kWBYTBxfrfIkKjYbwkRxV1u"}
+
+[INFO 2021-07-22 10:40:41]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:40:41]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:40:41]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:40:41]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:40:41]cookies: {}
+[DEBUG 2021-07-22 10:40:41]cookies: {}
+[INFO 2021-07-22 10:42:30]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:42:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:42:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:42:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:42:30]cookies: {}
+[DEBUG 2021-07-22 10:42:31]cookies: {}
+[INFO 2021-07-22 10:42:42]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:42:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:42:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:42:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:42:43]cookies: {}
+[DEBUG 2021-07-22 10:42:43]cookies: {}
+[INFO 2021-07-22 10:43:09]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:43:10]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:43:10]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:43:10]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:43:10]cookies: {}
+[DEBUG 2021-07-22 10:43:10]cookies: {}
+[INFO 2021-07-22 10:50:47]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:50:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:50:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:50:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:50:47]cookies: {}
+[DEBUG 2021-07-22 10:50:47]cookies: {}
+[ERROR 2021-07-22 10:50:47]Response body != expected_msg, expected_msg is {"code":0,"data":{"archive_no":"TYC0811","company":"北京天眼查科技有限公司","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"天眼企服-效率中台部-测试组","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"员工","post_scale":"","realname":"吕冰洋","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZL%2BTIw7nI55bMWK8lInRwyKjYbwkRxV1u"}, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZkeCHtfZx1aRlvvCBPWa9EajYbwkRxV1u"}
+
+[INFO 2021-07-22 10:51:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:51:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:51:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:51:44]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:51:44]cookies: {}
+[DEBUG 2021-07-22 10:51:44]cookies: {}
+[ERROR 2021-07-22 10:51:45]Response body != expected_msg, expected_msg is 0, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZC4F2isPODJacNKCcWi0K3qjYbwkRxV1u"}
+
+[INFO 2021-07-22 10:53:17]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:53:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:53:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:53:17]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:53:17]cookies: {}
+[DEBUG 2021-07-22 10:53:17]cookies: {}
+[ERROR 2021-07-22 10:53:18]Response body != expected_msg, expected_msg is 0, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZaOiEsGdu53/Qs%2BRBP2mLkajYbwkRxV1u"}
+
+[INFO 2021-07-22 10:58:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:58:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:58:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:58:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:58:01]cookies: {}
+[DEBUG 2021-07-22 10:58:01]cookies: {}
+[INFO 2021-07-22 10:59:21]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:59:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:59:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:59:21]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:59:22]cookies: {}
+[DEBUG 2021-07-22 10:59:22]cookies: {}
+[INFO 2021-07-22 10:59:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 10:59:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 10:59:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 10:59:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 10:59:57]cookies: {}
+[DEBUG 2021-07-22 10:59:57]cookies: {}
+[ERROR 2021-07-22 10:59:57]Response body != expected_msg, expected_msg is 0, body is {'code': 0, 'data': {'archive_no': 'TYC0811', 'company': '北京天眼查科技有限公司', 'company_email': 'lvbingyang@tianyancha.com', 'deleted': 0, 'department': '天眼企服-效率中台部-测试组', 'enter_date': '2020-12-06 00:00:00', 'id': 2002, 'leader_id': 108, 'level_code': '2.3', 'level_value': 23, 'mobile': 15822653053, 'post_code': 30, 'post_name': '员工', 'post_scale': '', 'realname': '吕冰洋', 'user_id': 2551, 'username': 15822653053, 'username_abbr': 'lby'}, 'redirect_code': 'dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZCidlXsCts1H2ScosNQiJDqjYbwkRxV1u'}
+[INFO 2021-07-22 11:00:30]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 11:00:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 11:00:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 11:00:30]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 11:00:30]cookies: {}
+[DEBUG 2021-07-22 11:00:30]cookies: {}
+[INFO 2021-07-22 11:01:04]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 11:01:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 11:01:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 11:01:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 11:01:05]cookies: {}
+[DEBUG 2021-07-22 11:01:05]cookies: {}
+[INFO 2021-07-22 11:01:33]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-22 11:01:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-22 11:01:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-22 11:01:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Personal.yaml
+[DEBUG 2021-07-22 11:01:33]cookies: {}
+[DEBUG 2021-07-22 11:01:34]cookies: {}
+[DEBUG 2021-07-22 16:26:35]cookies: {}
+[INFO 2021-07-27 18:45:28]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:45:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:46:49]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:46:49]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:47:34]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:47:34]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:51:53]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:51:53]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:54:10]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:54:11]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:55:08]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:55:09]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:56:07]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:56:07]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:56:29]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:56:29]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:57:51]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:57:51]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:59:12]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:59:12]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 18:59:36]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 18:59:36]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-27 19:00:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-27 19:00:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-28 09:44:19]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 09:44:19]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-28 11:19:26]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:19:26]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-28 11:19:50]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:19:50]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-28 11:20:06]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:20:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Basic.yaml
+[INFO 2021-07-28 11:23:33]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:23:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-28 11:23:54]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:23:54]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-28 11:39:33]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:39:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-28 11:42:25]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:42:25]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 11:42:25]cookies: {}
+[INFO 2021-07-28 11:43:52]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:43:52]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 11:43:53]cookies: {}
+[ERROR 2021-07-28 11:43:53]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-28 11:46:33]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:46:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 11:46:33]cookies: {}
+[ERROR 2021-07-28 11:46:34]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-28 11:47:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:47:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 11:47:57]cookies: {}
+[ERROR 2021-07-28 11:47:57]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-28 11:50:48]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 11:50:48]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-28 13:33:05]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:33:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:33:05]cookies: {}
+[INFO 2021-07-28 13:34:11]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:34:12]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:34:12]cookies: {}
+[ERROR 2021-07-28 13:34:12]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-28 13:35:00]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:35:00]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:35:00]cookies: {}
+[ERROR 2021-07-28 13:35:00]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-28 13:36:47]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:36:47]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:36:48]cookies: {}
+[ERROR 2021-07-28 13:36:48]statusCode error, expected_code is 200, statusCode is 405 
+[INFO 2021-07-28 13:38:32]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:38:32]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:38:32]cookies: {}
+[ERROR 2021-07-28 13:38:32]statusCode error, expected_code is 200, statusCode is 400 
+[INFO 2021-07-28 13:39:16]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:39:16]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:39:16]cookies: {}
+[INFO 2021-07-28 13:39:43]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:39:43]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:39:43]cookies: {}
+[ERROR 2021-07-28 13:39:43]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[INFO 2021-07-28 13:50:40]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 13:50:40]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 13:50:41]cookies: {}
+[ERROR 2021-07-28 13:50:42]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[INFO 2021-07-28 14:05:02]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:05:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:05:03]cookies: {}
+[ERROR 2021-07-28 14:05:04]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[INFO 2021-07-28 14:08:06]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:08:06]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:08:06]cookies: {}
+[ERROR 2021-07-28 14:08:08]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[INFO 2021-07-28 14:08:45]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:08:45]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:08:45]cookies: {}
+[INFO 2021-07-28 14:09:02]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:09:02]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:09:02]cookies: {}
+[INFO 2021-07-28 14:09:28]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:09:28]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:09:28]cookies: {}
+[INFO 2021-07-28 14:09:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:09:56]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:09:57]cookies: {}
+[INFO 2021-07-28 14:10:18]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:10:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[INFO 2021-07-28 14:20:35]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:20:35]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:20:35]cookies: {}
+[ERROR 2021-07-28 14:20:36]Response body Does not contain expected_msg, expected_msg is 9850.0
+[INFO 2021-07-28 14:20:56]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:20:57]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:20:57]cookies: {}
+[ERROR 2021-07-28 14:20:58]Response body Does not contain expected_msg, expected_msg is 9850.00
+[INFO 2021-07-28 14:21:18]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:21:18]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:21:18]cookies: {}
+[INFO 2021-07-28 14:21:33]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:21:33]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:21:34]cookies: {}
+[INFO 2021-07-28 14:22:12]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:22:12]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:22:12]cookies: {}
+[INFO 2021-07-28 14:30:04]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:30:05]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:30:05]cookies: {}
+[INFO 2021-07-28 14:30:51]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:30:51]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:30:51]cookies: {}
+[INFO 2021-07-28 14:44:52]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-28 14:44:52]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml
+[DEBUG 2021-07-28 14:44:53]cookies: {}
+[INFO 2021-07-30 15:07:27]初始化配置文件, path=/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Conf/config.ini
+[INFO 2021-07-30 15:07:27]解析yaml, Path:/Users/lvbingyang/PycharmProjects/pythonProject1/API_Automation/Params/Param/Collections.yaml

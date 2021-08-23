@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/8/21 下午10:14
-# @Author  : WangJuan
 # @File    : Assert.py
 
 
@@ -8,8 +7,8 @@
 封装Assert方法
 
 """
-from Common import Log
-from Common import Consts
+from API_Automation.Common import Log
+from API_Automation.Common import Consts
 import json
 
 
@@ -61,7 +60,6 @@ class Assertions:
         """
         try:
             text = json.dumps(body, ensure_ascii=False)
-            # print(text)
             assert expected_msg in text
             return True
 
@@ -71,15 +69,17 @@ class Assertions:
 
             raise
 
-    def assert_text(self, body, expected_msg):
+    def assert_text(self, body, body_msg,expected_msg):
         """
         验证response body中是否等于预期字符串
         :param body:
+        :param body_msg:
         :param expected_msg:
         :return:
         """
         try:
-            assert body == expected_msg
+            msg = body[body_msg]
+            assert msg == expected_msg
             return True
 
         except:

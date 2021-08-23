@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/24 下午3:33
-# @Author  : WangJuan
 # @File    : Session.py
 
 """
@@ -10,8 +9,8 @@
 
 import requests
 
-from Common import Log
-from Conf import Config
+from API_Automation.Common import Log
+from API_Automation.Conf import Config
 
 
 class Session:

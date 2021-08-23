@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/31 上午10:56
-# @Author  : WangJuan
 # @File    : tools.py
 
 """
@@ -22,8 +21,7 @@ def parse():
             with open(watch_file_path, 'r') as f:
                 page = yaml.safe_load(f)
                 pages.update(page)
-        return pages
-
+                return pages
 
 class GetPages:
     @staticmethod

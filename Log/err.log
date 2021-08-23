@@ -10,3 +10,105 @@
 [ERROR 2019-05-07 17:04:57]邮件发送失败，请检查邮件配置
 [ERROR 2019-06-03 16:33:25]邮件发送失败，请检查邮件配置
 [ERROR 2019-07-08 17:31:01]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:00:06]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:04:47]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:08:45]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:10:05]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:11:01]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:11:39]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:12:41]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:13:44]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:15:24]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:15:56]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:16:25]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:16:53]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 16:18:02]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 17:51:48]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 18:14:09]邮件发送失败，请检查邮件配置
+[ERROR 2021-07-12 18:36:03]发送邮件失败，请检查邮件配置
+[ERROR 2021-07-19 17:03:01]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:03:01]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:04:33]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:04:33]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:05:04]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:05:04]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:07:35]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:08:39]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:10:29]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:12:50]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:17:42]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:18:22]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:24:37]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:44:06]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 17:56:22]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 18:09:49]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 18:19:59]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 18:48:55]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 18:49:43]statusCode error, expected_code is 401, statusCode is 400 
+[ERROR 2021-07-19 19:00:46]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录."}, body is <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>400 Bad Request</title>
+<h1>Bad Request</h1>
+<p>The browser (or proxy) sent a request that this server could not understand.</p>
+
+[ERROR 2021-07-20 13:52:44]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 13:52:44]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:23:41]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:23:41]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:25:04]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:25:04]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:27:07]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:27:07]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:33:07]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:33:07]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-20 16:36:43]statusCode error, expected_code is 400, statusCode is 404 
+[ERROR 2021-07-20 16:37:33]statusCode error, expected_code is 400, statusCode is 404 
+[ERROR 2021-07-20 16:38:02]statusCode error, expected_code is 400, statusCode is 404 
+[ERROR 2021-07-20 16:38:02]statusCode error, expected_code is 400, statusCode is 404 
+[ERROR 2021-07-20 16:39:11]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-21 15:39:31]statusCode error, expected_code is 400, statusCode is 200 
+[ERROR 2021-07-21 15:39:47]statusCode error, expected_code is 400, statusCode is 200 
+[ERROR 2021-07-21 15:39:47]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-21 15:40:41]statusCode error, expected_code is 400, statusCode is 200 
+[ERROR 2021-07-21 15:40:41]statusCode error, expected_code is 400, statusCode is 405 
+[ERROR 2021-07-21 15:41:30]statusCode error, expected_code is 400, statusCode is 200 
+[ERROR 2021-07-21 15:41:31]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-21 16:01:04]statusCode error, expected_code is 405, statusCode is 200 
+[ERROR 2021-07-21 16:01:22]statusCode error, expected_code is 405, statusCode is 200 
+[ERROR 2021-07-22 10:11:57]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-22 10:12:40]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-22 10:13:21]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-22 10:13:32]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-22 10:15:26]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2021-07-22 10:26:07]Response body msg != expected_msg, expected_msg is 校验失败: 用户名或密码错误, body_msg is error
+[ERROR 2021-07-22 10:27:16]Response body msg != expected_msg, expected_msg is 校验失败: 用户名或密码错误, body_msg is error
+[ERROR 2021-07-22 10:27:16]Response body != expected_msg, expected_msg is {"code":0,"data":{"archive_no":"TYC0811","company":"北京天眼查科技有限公司","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"天眼企服-效率中台部-测试组","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"员工","post_scale":"","realname":"吕冰洋","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZeRE885wQA89nwVA%2BPNLLTKjYbwkRxV1u"}, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZhhGvj%2BpAJHWjJEvm/MVwKKjYbwkRxV1u"}
+
+[ERROR 2021-07-22 10:29:35]Response body msg != expected_msg, expected_msg is 校验失败: 用户名或密码错误, body_msg is error
+[ERROR 2021-07-22 10:29:36]Response time > expected_time, expected_time is 100, time is 209.307
+[ERROR 2021-07-22 10:31:01]Response time > expected_time, expected_time is 100, time is 280.436
+[ERROR 2021-07-22 10:31:02]Response time > expected_time, expected_time is 100, time is 266.274
+[ERROR 2021-07-22 10:32:22]Response time > expected_time, expected_time is 100, time is 217.223
+[ERROR 2021-07-22 10:33:39]Response body msg != expected_msg, expected_msg is {'code': 1, 'msg': '校验失败: 用户名或密码错误'}, body_msg is {'code': 1, 'msg': '校验失败: 用户名或密码错误'}
+[ERROR 2021-07-22 10:36:13]Response body msg != expected_msg, expected_msg is msg, body_msg is {'code': 1, 'msg': '校验失败: 用户名或密码错误'}
+[ERROR 2021-07-22 10:38:50]Response body != expected_msg, expected_msg is {"code":0,"data":{"archive_no":"TYC0811","company":"北京天眼查科技有限公司","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"天眼企服-效率中台部-测试组","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"员工","post_scale":"","realname":"吕冰洋","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZeRE885wQA89nwVA%2BPNLLTKjYbwkRxV1u"}, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZ88MrEFHb7kWBYTBxfrfIkKjYbwkRxV1u"}
+
+[ERROR 2021-07-22 10:50:47]Response body != expected_msg, expected_msg is {"code":0,"data":{"archive_no":"TYC0811","company":"北京天眼查科技有限公司","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"天眼企服-效率中台部-测试组","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"员工","post_scale":"","realname":"吕冰洋","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZL%2BTIw7nI55bMWK8lInRwyKjYbwkRxV1u"}, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZkeCHtfZx1aRlvvCBPWa9EajYbwkRxV1u"}
+
+[ERROR 2021-07-22 10:51:45]Response body != expected_msg, expected_msg is 0, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZC4F2isPODJacNKCcWi0K3qjYbwkRxV1u"}
+
+[ERROR 2021-07-22 10:53:18]Response body != expected_msg, expected_msg is 0, body is {"code":0,"data":{"archive_no":"TYC0811","company":"\u5317\u4eac\u5929\u773c\u67e5\u79d1\u6280\u6709\u9650\u516c\u53f8","company_email":"lvbingyang@tianyancha.com","deleted":0,"department":"\u5929\u773c\u4f01\u670d-\u6548\u7387\u4e2d\u53f0\u90e8-\u6d4b\u8bd5\u7ec4","enter_date":"2020-12-06 00:00:00","id":2002,"leader_id":108,"level_code":"2.3","level_value":23,"mobile":15822653053,"post_code":30,"post_name":"\u5458\u5de5","post_scale":"","realname":"\u5415\u51b0\u6d0b","user_id":2551,"username":15822653053,"username_abbr":"lby"},"redirect_code":"dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZaOiEsGdu53/Qs%2BRBP2mLkajYbwkRxV1u"}
+
+[ERROR 2021-07-22 10:59:57]Response body != expected_msg, expected_msg is 0, body is {'code': 0, 'data': {'archive_no': 'TYC0811', 'company': '北京天眼查科技有限公司', 'company_email': 'lvbingyang@tianyancha.com', 'deleted': 0, 'department': '天眼企服-效率中台部-测试组', 'enter_date': '2020-12-06 00:00:00', 'id': 2002, 'leader_id': 108, 'level_code': '2.3', 'level_value': 23, 'mobile': 15822653053, 'post_code': 30, 'post_name': '员工', 'post_scale': '', 'realname': '吕冰洋', 'user_id': 2551, 'username': 15822653053, 'username_abbr': 'lby'}, 'redirect_code': 'dfWi%2B2nSvUtrWeJ/VGpyDYwTHOdrdsYZCidlXsCts1H2ScosNQiJDqjYbwkRxV1u'}
+[ERROR 2021-07-28 11:43:53]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-28 11:46:34]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-28 11:47:57]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-28 13:34:12]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-28 13:35:00]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-28 13:36:48]statusCode error, expected_code is 200, statusCode is 405 
+[ERROR 2021-07-28 13:38:32]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2021-07-28 13:39:43]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[ERROR 2021-07-28 13:50:42]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[ERROR 2021-07-28 14:05:04]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[ERROR 2021-07-28 14:08:08]Response body Does not contain expected_msg, expected_msg is 软件测试-各种技能集合
+[ERROR 2021-07-28 14:20:36]Response body Does not contain expected_msg, expected_msg is 9850.0
+[ERROR 2021-07-28 14:20:58]Response body Does not contain expected_msg, expected_msg is 9850.00

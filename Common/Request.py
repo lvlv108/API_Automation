@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/19 下午5:22
-# @Author  : WangJuan
 # @File    : Request.py
 
 """
@@ -11,8 +10,9 @@
 import os
 import random
 import requests
-import Common.Consts
-from Common import Session
+import API_Automation.Common.Consts
+from API_Automation import Common
+from API_Automation.Common import Session
 from requests_toolbelt import MultipartEncoder
 
 
@@ -42,7 +42,7 @@ class Request:
             if data is None:
                 response = requests.get(url=url, headers=header, cookies=self.get_session)
             else:
-                response = requests.get(url=url, params=data, headers=header, cookies=self.get_session)
+                response = requests.get(url=url, json=data,  cookies=self.get_session)
 
         except requests.RequestException as e:
             print('%s%s' % ('RequestException url: ', url))
@@ -72,7 +72,7 @@ class Request:
 
         return response_dicts
 
-    def post_request(self, url, data, header):
+    def post_request(self, url, data):
         """
         Post请求
         :param url:
@@ -86,9 +86,9 @@ class Request:
             print(url)
         try:
             if data is None:
-                response = requests.post(url=url, headers=header, cookies=self.get_session)
+                response = requests.post(url=url, cookies=self.get_session)
             else:
-                response = requests.post(url=url, params=data, headers=header, cookies=self.get_session)
+                response = requests.post(url=url, json=data)  #,cookies=self.get_sessio
 
         except requests.RequestException as e:
             print('%s%s' % ('RequestException url: ', url))

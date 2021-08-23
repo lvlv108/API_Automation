@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/31 上午10:42
-# @Author  : WangJuan
 # @File    : run.py
 
 """
@@ -14,7 +13,6 @@
 """
 
 import pytest
-
 from Common import Log
 from Common import Shell
 from Conf import Config
@@ -33,7 +31,7 @@ if __name__ == '__main__':
     args = ['-s', '-q', '--alluredir', xml_report_path]
     pytest.main(args)
 
-    cmd = 'allure generate %s -o %s' % (xml_report_path, html_report_path)
+    cmd = f'allure generate {xml_report_path} -o {html_report_path}'
 
     try:
         shell.invoke(cmd)
@@ -41,10 +39,10 @@ if __name__ == '__main__':
         log.error('执行用例失败，请检查环境配置')
         raise
 
-    try:
-        mail = Email.SendMail()
-        mail.sendMail()
-    except Exception as e:
-        log.error('发送邮件失败，请检查邮件配置')
-        raise
+    # try:
+    #     mail = Email.SendMail()
+    #     mail.sendMail()
+    # except Exception as e:
+    #     log.error('发送邮件失败，请检查邮件配置')
+    #     raise
 

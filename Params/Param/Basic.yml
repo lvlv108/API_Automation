@@ -1,17 +1,27 @@
----
-Basic:
-  dec: "基础设置"
-  parameters:
-    -
-      url: /postLogin
-      data:
-        -
-          email: wangjuan@user.com
-          password: 123456
-          auth: admin
-      header: {
-                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
-                  Chrome/67.0.3396.99 Safari/537.36",
-                 "Content-Type": "application/x-www-form-urlencoded"
-              }
-
+#---
+##{"username":"15822653053","password":"1234qwer","app_uid":""}
+#Basic:
+#  dec: "登录"
+#  parameters:
+#    -
+#      url: /api/login
+#      data:
+#          username: "15822653053"
+#          password: "1234www"
+#          app_uid: ""
+#
+##          auth: admin
+#      header:
+#          User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
+#                  Chrome/67.0.3396.99 Safari/537.36"
+#          Content-Type: "application/json"
+#    -
+#      url: /api/login
+#      data:
+#          username: "15822653053"
+#          password: "1234qwer"
+#          app_uid: ""
+##          auth: admin
+#      header:
+##          User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+#          Content-Type: "application/json"

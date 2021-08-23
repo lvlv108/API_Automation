@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/19 下午5:23
-# @Author  : WangJuan
 # @File    : Email.py
 
 """
@@ -13,9 +12,9 @@ from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from Common import Consts
-from Common import Log
-from Conf.Config import Config
+from API_Automation.Common import Consts
+from API_Automation.Common import Log
+from API_Automation.Conf.Config import Config
 
 
 class SendMail:
@@ -52,7 +51,7 @@ class SendMail:
             smtp.sendmail(self.config.sender, toclause, msg.as_string())
         except Exception as e:
             print(e)
-            print("发送失败")
+            print("邮件发送失败")
             self.log.error("邮件发送失败，请检查邮件配置")
 
         else:
